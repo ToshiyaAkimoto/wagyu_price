@@ -57,3 +57,9 @@ footer {
   background-color: #343a40;
   text-align: center;
 }
+
+
+/*ここから追加した項目*/
+.card {
+  border-radius: 0;
+}
